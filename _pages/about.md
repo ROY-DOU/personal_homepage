@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm Zi-jun DOU(窦梓峻)."
+title: "I'm Zi-Jun DOU(窦梓峻)."
 author_profile: true
 redirect_from: 
   - /about/
