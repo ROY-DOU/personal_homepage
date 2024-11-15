@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a graduate student in the [**Institute for Network Sciences and Cyberspace**](https://www.insc.tsinghua.edu.cn/) at [**Tsinghua University**](https://www.tsinghua.edu.cn/en/), as a member of the [**NetMan Lab**](https://netman.aiops.org/), advised by Associate Professor [**Dan Pei**](https://netman.aiops.org/~peidan/). My recent research interests relate to foundation models in time series.
+Currently, I'm an incoming master student in the [**Institute for Network Sciences and Cyberspace**](https://www.insc.tsinghua.edu.cn/) at [**Tsinghua University**](https://www.tsinghua.edu.cn/en/), as a member of the [**NetMan Lab**](https://netman.aiops.org/), advised by Associate Professor [**Dan Pei**](https://netman.aiops.org/~peidan/). My recent research interests relate to time series foundation models.
 
-Before that, I obtained my Bachelor's degree in Software Engineering (Pilot Program in Engineering) from Jilin University. During my undergraduate studies, I conducted research on time series classification and bioinformatics under the supervision of Associate Professor Xiaosong Han.
+I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in Engineering)**](http://csw.jlu.edu.cn/info/1080/2824.htm) from [**Jilin University**](https://www.jlu.edu.cn/). During my undergraduate studies, I conducted research on time series classification and bioinformatics under the supervision of Associate Professor [**Xiaosong Han**](https://ccst.jlu.edu.cn/info/1196/17217.htm).
 
-**Contact me via:**
-Mail: douzijunabc[AT]gmail.com
+**Contact me via**:  
+  <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:douzijunabc@gmail.com">douzijunabc@gmail.com</a> </font><br>
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
