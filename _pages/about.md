@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a graduate student in the Institute for Network Sciences and Cyberspace at Tsinghua University, as a member of the NetMan Lab, advised by Associate Professor Dan Pei. My recent research interests relate to foundation models in time series.
+Currently, I'm a graduate student in the [**Institute for Network Sciences and Cyberspace**](https://www.insc.tsinghua.edu.cn/) at [**Tsinghua University**](https://www.tsinghua.edu.cn/en/), as a member of the [**NetMan Lab**](https://netman.aiops.org/), advised by Associate Professor [**Dan Pei**](https://netman.aiops.org/~peidan/). My recent research interests relate to foundation models in time series.
 
 Before that, I obtained my Bachelor's degree in Software Engineering (Pilot Program in Engineering) from Jilin University. During my undergraduate studies, I conducted research on time series classification and bioinformatics under the supervision of Associate Professor Xiaosong Han.
 
