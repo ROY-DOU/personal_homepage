@@ -32,6 +32,90 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 </div>
 
 
+**Selected Honors**
 
+<table style="border:none;font-size:0.95em;">
+  <tr>
+    <td style="border:none;"><i>National Scholarship </i> by The Central Government of China.
+    </td>
+    <td style="border:none;text-align:center;">2024
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>China University Service Outsourcing Innovation and Entrepreneurship Competition: National Third Prize </i> by the Competition Committee.
+    </td>
+    <td style="border:none;text-align:center;">2024
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>SAMSUNG Scholarship </i> by SAMSUNG Committee.
+    </td>
+    <td style="border:none;text-align:center;">2024
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>Outstanding Paper of University Student Innovation and Entrepreneurship Training Program(Ranked 1st) </i> by Jilin University.
+    </td>
+    <td style="border:none;text-align:center;">2024
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>International Genetically Engineered Machine Competition(iGEM): World Silver Medal </i> by iGEM Committee.
+    </td>
+    <td style="border:none;text-align:center;">2023
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>Ministry of Education - Huawei "Intelligent Base" Future Star </i>  by the Joint Working Group.
+    </td>
+    <td style="border:none;text-align:center;">2023
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>Interdisciplinary Contest in Modeling(ICM): Honorable Mention </i> by COMAP.
+    </td>
+    <td style="border:none;text-align:center;">2023
+    </td>
+  </tr>
+</table>
 
+**Services**
 
+<table style="border:none;font-size:0.95em;">
+  <tr>
+    <td style="border:none;"><i>National Scholarship </i> by The Central Government of China.
+    </td>
+    <td style="border:none;text-align:center;">2024
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>SAMSUNG Scholarship </i> by SAMSUNG Committee.
+    </td>
+    <td style="border:none;text-align:center;">2024
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>International Genetically Engineered Machine Competition(iGEM): World Silver Medal </i> by iGEM Committee.
+    </td>
+    <td style="border:none;text-align:center;">2023
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>Individual Scholarship Of Jilin University</i>  by Jilin University.
+    </td>
+    <td style="border:none;text-align:center;">2021 & 2022
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>Outstanding Student Of College of Software</i> by Jilin University.
+    </td>
+    <td style="border:none;text-align:center;">2020 & 2021 & 2022
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"><i>First Class Scholarship Of Jilin University</i> (Top5%) by Jilin University.
+    </td>
+    <td style="border:none;text-align:center;">2020 & 2021 & 2023
+    </td>
+  </tr>
+</table>
